@@ -6,9 +6,10 @@ export const App = () => {
   return (
     <div>
       <Card
+        image="./assets/card-image.png"
         number="01."
         title="The beginning of everything."
-        date="January 2021" />
+        date="JANUARY 2021" />
     </div>
   )
 }
