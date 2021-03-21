@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Rosarivo&display=swap');
+
+body {
+  
+}
+
+/* card 
+
+position: absolute;
+width: 500px;
+height: 650px;
+left: 470px;
+top: 156px;
+
+background: #E5DCCD;
+box-shadow: -4px 4px 2px rgba(0, 0, 0, 0.5);
+border-radius: 2px;
+*/
+
+/* magic-pattern 
+
+position: absolute;
+width: 500px;
+height: 447px;
+left: 470px;
+top: 156px;
+
+background: url(magicpattern-ixxjruC7Gg4-unsplash.jpg);
+border-radius: 2px 2px 0px 0px;
+*/
+
+
+/* object-fit: contain; på background-image in react ?? */
+
+/* card */
+
+.card {
+  background: #E5DCCD;
+  background-image: url("/assets/card-image.png");
+  border-radius: 2px 2px 0px 0px;
+  width: 500px;
+  height: 650px;
+  left: 470px;
+  top: 156px; 
+  box-shadow: -4px 4px 2px rgba(0, 0, 0, 0.5);
+  border-radius: 2px;
+}
+
+.date-number-container {
+  background-color: #E5DCCD;
+  box-shadow: -4px 4px 2px rgba(0, 0, 0, 0.5);
+  border-radius: 2px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 46px;
+  line-height: 65px;
+  color: #000000;
+}
+
+.card-header {
+  font-family: 'Rosarivo', serif;
+  font-size: 25px;
+  line-height: 19px;
+  position: absolute;
+  width: 111px;
+  height: 19px;
+  left: 493px;
+  top: 622px;
+  color: #000000;
+}
+/* month */
+
+
+/* identical to box height ???? ----> vad är detta?  */
+
+
+
+/* Title 
+
+position: absolute;
+width: 330px;
+height: 114px;
+left: 493px;
+top: 652px;
+
+*/
